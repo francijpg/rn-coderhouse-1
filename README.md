@@ -1,6 +1,6 @@
 # rn-coderhouse-1
 
-### Simple to do list app for react native course at coderhouse.
+### Simple todo list app for react native course at coderhouse.
 
 ### Screenshots
 ![1](https://github.com/francijpg/rn-coderhouse-1/blob/main/src/assets/images/1.png)
